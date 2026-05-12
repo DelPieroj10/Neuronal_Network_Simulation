@@ -1,0 +1,15 @@
+{
+  "name": "neuronal_conections",
+  "version": "1.0.0",
+  "description": "Agent Network Simulation — Portfolio Project",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.0.12"
+  }
+}
