@@ -1,9 +1,8 @@
 ## 📸 Screenshots
 
 ### Agent Network Interactions
-Screenshot/agent-network-03.png
-<img src="./Screenshot/agent-network-02.png width="600" />
-//<img src="Screenshot/agent-network-03.png width="600" />
+<img src="Screenshot/agent-network-02.png width="600" />
+<img src="Screenshot/agent-network-03.png width="600" />
 
 # Agent Network Simulation
 
